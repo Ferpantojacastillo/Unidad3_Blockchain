@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enviar Fondos - MiWallet</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="#">MiWallet</a>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="{% url 'info' %}">Mis Datos</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container py-5">
+    <div class="card shadow-lg">
+      <div class="card-body">
+        <h3 class="card-title mb-4 text-center text-primary">Enviar Fondos</h3>
+
+        <form method="POST">
+          
+          <div class="mb-3">
+            <label class="form-label fw-bold">Mi Wallet</label>
+            <input type="text" class="form-control" name="mi_wallet" value="2Z2HEQ73YWRFR7AB5SDXVBEVPNDWXBRO3WMV3EUDYP6AOJ3D7D6V5JG7U4" readonly>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label fw-bold">Cartera a Enviar</label>
+            <input type="text" class="form-control" name="cartera_destino" placeholder="Ej: 0xABC123XYZ" required>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label fw-bold">Monto</label>
+            <input type="number" class="form-control" name="monto" placeholder="Cantidad a enviar" required>
+          </div>
+
+          <button type="submit" class="btn btn-success w-100">Enviar</button>
+        </form>
+
+        
+        <div class="alert alert-info mt-4 text-center">{{ mensaje }}</div>
+        
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>
