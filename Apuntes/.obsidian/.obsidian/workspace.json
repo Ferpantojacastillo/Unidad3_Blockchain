@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "0aecd9aca1ed52c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b74ae7f55dc4173c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dadfe067fa099a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sistemas operativos II/Unidad 3 blockchain como SOD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidad 3 blockchain como SOD"
+            }
+          },
+          {
+            "id": "41048549b8f9efb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sistemas operativos II/Unidad 3 blockchain como SOD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidad 3 blockchain como SOD"
+            }
+          },
+          {
+            "id": "bb2e5ea7b9e2cf9b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.3"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d970a8022bdcd874",
+    "type": "split",
+    "children": [
+      {
+        "id": "2de204328be186ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e67eb71edb4a872b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "4a61fd1f8f680b9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "63db9bbdde2dfc9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e9eb2f0acd519dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7a9c44425e6fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0acd2a5d1aca49ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "28-10-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 28-10-24"
+            }
+          },
+          {
+            "id": "29d20da94243c545",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "28-10-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 28-10-24"
+            }
+          },
+          {
+            "id": "c4c9adc9eb3c2a9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "edf96744d5461db8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "28-10-24.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 28-10-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "41048549b8f9efb8",
+  "lastOpenFiles": [
+    "redes emergentes/Unidad 2.md",
+    "sistemas operativos II/Unidad 3 blockchain como SOD.md",
+    "redes emergentes/Unidad 3 Red Blockchain.md",
+    "Nota de proyecto.md",
+    "Captura de pantalla 2025-10-20 220803.png",
+    "Pasted image 20251020221006.png",
+    "Pasted image 20251020184957.png",
+    "Pasted image 20251020110000.png",
+    "sistemas operativos II/Unidad 2.md",
+    "sistemas operativos II/unidad 1.md",
+    "Unidad2",
+    "redes emergentes/unidad 1.md",
+    "Cuadro sinóptico de llaves moderno papel blanco.png",
+    "Pasted image 20251002094509.png",
+    "unidad2.md",
+    "redes emergentes/unidad2.md",
+    "Pasted image 20250904103906.jpg",
+    "plugins/obsidian-excalidraw-plugin/Sin título.md",
+    "WhatsApp Image 2025-09-02 at 10.33.43 AM.jpeg",
+    "objetivo clase 2.md",
+    "Objetivo clase 3.md",
+    "sistemas operativos II",
+    "redes emergentes/redes emergentes.md",
+    "redes emergentes",
+    "Mapa Conceptual Doodle A mano Multicolor.png",
+    "Pasted image 20241107082337.png",
+    "Presentación.md",
+    "Sin título 2.md",
+    "Unidad4_Tel/Unidad3.md",
+    "Sin título 1.md",
+    "Sin nombre 2",
+    "Sin nombre 1",
+    "Unidad4_Tel/Preguntas.md",
+    "Unidad4_Tel/28-10-24.md",
+    "Unidad4_Tel/Capturas.md",
+    "Unidad3_Ac/Como saber que computadora usar con que tipo de procesador(Intel Xeon, AMDA EPYC)..md",
+    "Unidad3_Ac/28-10-24.md",
+    "Unidad3_Ac/Computadoras.md",
+    "Tabla comparativa.md",
+    "Unidad3_Ac/Tabla comparativa.md",
+    "Unidad3_Ac",
+    "Unidad4_Tel"
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "277d5414352c93d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7fc955ef8ec05fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02ad2590a63b5831",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "19aa5ba5e94cf005",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa36a8edb1bdce3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9107c15d361a917d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Telecomunicaciones/OIP (1) 1.jpg"
+              }
+            }
+          },
+          {
+            "id": "9e591c03763118de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72a40dc8bc3da780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura_de_Computadoras/Obsidian/unidad 2/24-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "243dd7f7841f10af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56f6ab5cc61db1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abe5632d285c6ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f60c20119d37215b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c6859cc3150e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d8526bb6bc6f37d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31ddddfee32f56c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "714d71091e510ed4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0844f226ee2e89b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "18cdd6ca834b83c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32d03a90b0b1199",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34050b8aa5ac1f9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "193c90306ddd9502",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ca0ae85bce5fe3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3d8526bb6bc6f37d",
+  "lastOpenFiles": [
+    "Pasted image 20241010112808.png",
+    "Pasted image 20241010112742.png",
+    "Pasted image 20241010112720.png",
+    "Pasted image 20241010112704.png",
+    "Pasted image 20241010112553.png",
+    "Arquitectura_de_Computadoras/Obsidian/unidad 2/24-09-2024.md",
+    "Arquitectura_de_Computadoras/Obsidian/unidad 2/09-10-2024.md",
+    "Arquitectura_de_Computadoras/Obsidian/27-Agosto-2024.md",
+    "Fibra optica.md",
+    "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+    "Telecomunicaciones/obsidian/Uni3_Apuntes",
+    "Sin título.md",
+    "Arquitectura_de_Computadoras/Obsidian/unidad 2",
+    "Telecomunicaciones/OIP (1) 1.jpg",
+    "2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg",
+    "93d146ae-bd0b-4d6a-bfc1-3ad3aaae43e0.jpg",
+    "b5bab069-eab3-4641-b4a9-a0dc39616cfb.jpg",
+    "Telecomunicaciones/Semana2/27-agosto-2024.md",
+    "Telecomunicaciones/Semana1/Dia1.md",
+    "Telecomunicaciones/Semana1/Dia3.md",
+    "Telecomunicaciones/Semana1/Dia2.md",
+    "Semana 2/27-Agosto-2024.md",
+    "Excalidraw/Drawing 2024-08-20 07.33.55.excalidraw.md",
+    "Arquitectura_de_Computadoras/Semana1/Dia3.md",
+    "Arquitectura_de_Computadoras/Semana1/Dia2.md",
+    "Arquitectura_de_Computadoras/Semana1/Dia1.md",
+    "Telecomunicaciones/Semana2",
+    "Semana 2",
+    "WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
+    "WhatsApp Image 2024-08-22 at 8.38.09 AM.jpeg",
+    "Telecomunicaciones.md",
+    "Arquitectura_de_Computadoras/Semana1",
+    "Arquitectura_de_Computadoras",
+    "Sin título.canvas",
+    "2024-08-21.md",
+    "Bienvenido.md",
+    "Excalidraw/Drawing 2024-08-20 19.55.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-20 07.41.54.excalidraw.md",
+    "Excalidraw",
+    "Telecomunicaciones/Semana1",
+    "Telecomunicaciones"
+  ]
+}
